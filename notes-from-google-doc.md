@@ -857,7 +857,7 @@ anyway, here is info from 1st one, please say if this ok - i got from youtube
 Inner Strength and Sovereignty | Episode 1
 ￼
 Mystic rEvolution
- Premiered Jul 29, 2022  Season 1
+Premiered Jul 29, 2022  Season 1
 Join our facilitators, Susana and Wendy as they share how Mystics can make a difference and why we need a Mystic Revolution now.
 
 We open our first episode with a brief meditation to help us get centered and present for the open sharing between Susana and Wendy about how Mystics make a difference and share essential practices that are meant to empower us with Inner Strength and Sovereignty.
