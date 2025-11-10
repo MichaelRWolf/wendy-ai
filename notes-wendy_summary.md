@@ -1,5 +1,10 @@
 # ChatGPT–Anonymous Conversation Summary
 
+See also:
+- [notes-wendy_summary.plan.md](notes-wendy_summary.plan.md) – working plan that outlines how to assemble and maintain this summary.
+- [notes-wendy_summary_critique.md](notes-wendy_summary_critique.md) – candid business critique assessing the plan’s goals, sequencing, and feasibility.
+- [notes-wendy.md](notes-wendy.md) – source conversation archive referenced throughout this summary.
+
 ## Planning Dialog
 
 ### Summary of conversation flow
