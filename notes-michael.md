@@ -1,11 +1,9 @@
+# Notes for Michael
+
 Your first question was answered...
 
 > You could replicate 90% of this course’s value right here, free, through structured collaboration with me.
-
-
-
 > "I've been wanting what they are offering ... a clone.
-
 
 We’ve already built most of what they’re promising:
 
@@ -24,12 +22,11 @@ So in practice, you already have an evolving “Wendy Clone” that’s contextu
 What are "voice" cues?
 
 ### Product-Market Fit Thoughts
+
 - Anchor every AI step to a revenue hypothesis—e.g., sell the next THRIVE seats—before scaling infrastructure.
 - Let customer conversations and paid experiments dictate which assets to automate; otherwise the AI core risks being a shiny object.
-- Frame the plan to Wendy as “win the next offer first, then the AI follows,” so the system 
+- Frame the plan to Wendy as “win the next offer first, then the AI follows,” so the system
 amplifies validated demand rather than leading it.
-
-
 
 Here’s a set of questions you can pose to steer the conversation toward validating demand and keeping the focus on revenue-driven results:
 
@@ -46,11 +43,10 @@ Here’s a set of questions you can pose to steer the conversation toward valida
 
 These questions keep the work anchored to real customer evidence and revenue, ensuring the AI build follows validated demand rather than leading it.
 
-
-
 This is a living garden, not a museum.
 
 ## AI alternative: clone vs lead-gen
+
 - Reframe the Wendy/ChatGPT transcript (and Tony & Dean’s promise) as a contrast whitepaper: “Mystic AI Advantage vs. Mainstream Bootcamps,” aimed at lead generation rather than clone-building.
 - Segment by consciousness register (Sky-God, God-Personality, Ground-of-Being); craft a simple summary + invitation for each, proving interest with minimal tech.
 - Run tiny, paid experiments (e.g., THRIVE pilot invite, resilience consult, live salon) using existing copy; success metric = money collected or seats filled.
@@ -85,6 +81,7 @@ This is a living garden, not a museum.
    - Delivery support
 
 ## First Proof of [Concept/Revenue/*-ability]
+
 - Register: God-Personality bridging toward Ground-of-Being
 - Tone: Warm, compassionate, invitational
 - Audience: Transitional seekers feeling politically or spiritually shaken
