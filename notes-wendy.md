@@ -1,5 +1,7 @@
 # ChatGPT–Anonymous Conversation Copy
 
+Originally from <https://docs.google.com/document/d/1unp5_fGPIPZ5VAYvQW6wmMrPb5C6BpcHJFZFPwMCDTI/edit?tab=t.0>
+
 ## Colophon
 
 Suppressing these markdownlint rules for the transcript:
