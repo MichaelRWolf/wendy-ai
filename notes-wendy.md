@@ -4503,12 +4503,6 @@ don't forget to like and share join the Mystic Revolution click on the
 
 link in the description to get more information or visit the mysticrevolution.com
 
-Chat Replay is disabled for this Premiere.
-
-All
-
-From the series
-
 4:18:26
 
 AI Advantage Summit Day 2
