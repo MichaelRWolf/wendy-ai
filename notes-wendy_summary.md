@@ -8,14 +8,16 @@ See also:
 ## Planning Dialog
 
 ### Summary of conversation flow
-Lines 1–400 capture Wendy asking ChatGPT to evaluate Tony Robbins and Dean Graziosi’s “AI Clone” bootcamp, ChatGPT’s point-by-point comparison to their existing collaboration, and both agreeing to co-create a flexible 30-day “Wendy Clone” rhythm that honors Wendy’s energy while organizing her knowledge base.
-Lines 401–800 dive into co-designing the BLOOM_AI_Core structure, with ChatGPT proposing folders, metadata, and a gentle 30-day rhythm, Wendy confirming a single Google Doc will remain the living seed, and both aligning on near-term priorities of launching a clear website, advancing THRIVE, and attracting private clients.
-Lines 801–1,200 deepen alignment: ChatGPT shows how the dataset fuels website, THRIVE, and private-client goals; Wendy explains the three consciousness registers (Sky-God, God-Personality, Ground-of-Being); ChatGPT commits to tagging content accordingly and offers folder definitions, while Wendy pauses to work and notes limited availability.
-Lines 1,201–1,600 finalize folder definitions and clarify media handling: ChatGPT details the purpose and contents for directories 10–70, explains the need for transcripts (or summaries) for AI processing, and reviews Wendy’s Mystic rEvolution podcast excerpt, confirming shared context and readiness to ingest dual-speaker transcripts.
-Lines 1,601–1,900 keep Episode 1 workflow momentum: Wendy confirms the full transcript, ChatGPT reiterates tagging, extract, and summary outputs, and they agree on packaging formats and speaker separation to support both solo voice training and collaborative archives.
-Lines 1,901–2,400 capture final confirmations: Wendy authorizes trimming to dialogue-only transcripts, sets the canonical package filename, and secures instructions for manual insertion of the full conversation while ChatGPT supplies template sections (transcript, Wendy extract, dual summary) for consistent ingestion.
-Lines 2,651–3,200 document ChatGPT walking Wendy through the finished session-package structure, clarifying how each episode will return as a single block containing labeled transcript, Wendy-only extract, and dual summary, plus guidance on cleaning intros/outros and confirming the full transcript source before processing.
-Lines 7,633–8,109 show Wendy and ChatGPT planning automation: they weigh manual batching against API-assisted pipelines, agree that hybrid automation with Michael’s help will scale transcript handling, and settle on reusable text templates (including YouTube links and multi-episode dividers) to keep BLOOM_AI_Core organized.
+| Line # | Summary |
+| :--- | :--- |
+| 1–400 | Wendy asks ChatGPT to evaluate Tony Robbins and Dean Graziosi’s “AI Clone” bootcamp, leading both to design a flexible 30-day “Wendy Clone” rhythm that preserves her energy while structuring the knowledge base. |
+| 401–800 | They co-design BLOOM_AI_Core: ChatGPT proposes folders, metadata, and a gentle cadence; Wendy keeps a single Google Doc as the living seed; both focus near-term on the website, THRIVE, and private clients. |
+| 801–1,200 | The pair align on using the dataset for website, THRIVE, and clients; Wendy shares the three consciousness registers; ChatGPT agrees to tag content accordingly and supplies folder definitions while Wendy pauses to work. |
+| 1,201–1,600 | ChatGPT details directory purposes (10–70), clarifies transcript requirements, and reviews the Mystic rEvolution excerpt, confirming readiness to ingest dual-speaker transcripts with proper tagging. |
+| 1,601–1,900 | Workflow continues: Wendy confirms the full transcript; ChatGPT reiterates tagging, extract, and summary outputs; both affirm packaging formats and speaker separation for solo and collaborative archives. |
+| 1,901–2,400 | Final confirmations cover trimming to dialogue-only transcripts, the canonical package filename, manual insertion instructions, and template sections for transcript, Wendy extract, and dual summary. |
+| 2,651–3,200 | ChatGPT walks Wendy through the finished session-package structure, showing how each episode returns as a labeled bundle with transcript, Wendy-only extract, and dual summary, plus guidance on cleaning non-dialogue segments. |
+| 7,633–8,109 | They plan automation: weighing manual batches against API pipelines, agreeing on a hybrid approach with Michael’s help, and standardizing reusable templates (including YouTube links and dividers) for BLOOM_AI_Core. |
 
 ### Goals of the project that was discussed
 - Build a personalized Wendy Clone system rooted in her frameworks and archives.
