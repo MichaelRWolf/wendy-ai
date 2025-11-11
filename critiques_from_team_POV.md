@@ -20,6 +20,18 @@
 - Keeps vision connected across tracks (knowledge, marketing, automation) so work products stay coherent.
 - Acts as translator between spiritual framework and technical scaffolding, protecting authenticity while enabling scale.
 
+### If Success (Knowledge Architect)
+
+- Rhythm becomes the trusted operating system—teams know exactly what’s next, momentum compounds, and Wendy gains a living knowledge engine ready for future offerings.
+- Enables effortless handoff to future collaborators because workflows, checkpoints, and definitions are crystal clear.
+- Demonstrates that soulful work and disciplined systems can co-exist, inspiring clients and peers to adopt similar structures.
+
+### How It Could Fail (Knowledge Architect)
+
+- If the cadence ossifies or loses touch with marketing and revenue priorities, teams may ignore it and revert to ad-hoc requests.
+- Overemphasis on documentation without shipping outcomes could create “process theater” and erode trust.
+- Without regular retrospectives, blind spots may persist (e.g., missing registers, outdated folders), causing rework later.
+
 ## Content Librarian / Metadata Specialist
 
 ### Key Work (Content Librarian)
@@ -39,6 +51,18 @@
 - Provides searchable, trustworthy single source of truth, saving everyone from spelunking old docs.
 - Metadata discipline enables the consciousness-register strategy to survive beyond the founding team.
 - Sets standards that make downstream automation vastly easier because inputs remain consistent.
+
+### If Success (Content Librarian)
+
+- BLOOM_AI_Core becomes the effortless home base—anyone can locate voice pieces, frameworks, or transcripts in seconds.
+- Tagged assets allow rapid experimentation (e.g., targeted copy for THRIVE segments) without reinventing context.
+- Creates a replicable blueprint for future archives (e.g., Mystic rEvolution seasons) with minimal onboarding.
+
+### How It Could Fail (Content Librarian)
+
+- If metadata entry feels burdensome or unclear, contributors may bypass the process, fragmenting the archive.
+- Lack of version discipline could lead to conflicting “canonical” documents, reducing confidence in the system.
+- Failure to capture source links or context might limit legal or ethical reuse, especially for collaborative recordings.
 
 ## Transcript Production & Packaging Lead
 
@@ -60,6 +84,18 @@
 - Builds repeatable packaging muscle that future contractors or tools can slot into.
 - Acts as the guardrail protecting Wendy’s voice integrity while honoring collaborators like Susana.
 
+### If Success (Transcript Lead)
+
+- Every recording quickly becomes a polished asset powering voice training, marketing snippets, and future books.
+- Demonstrates a scalable packaging workflow that external editors or automated services can extend.
+- Unlocks a searchable oral history, making it simple to remix themes for new offerings or client support.
+
+### How It Could Fail (Transcript Lead)
+
+- Inconsistent labeling or missed deadlines could stall downstream launches (website pages, THRIVE campaigns).
+- If quality control slips, Wendy’s voice model may absorb errors, requiring costly retraining.
+- Lack of backup workstreams (e.g., automation, cross-training) could create bottlenecks when volume spikes.
+
 ## Website & UX Copy Strategist
 
 ### Key Work (Website Strategist)
@@ -79,6 +115,18 @@
 - Bridges the internal knowledge base with public storytelling, accelerating website relaunch goals.
 - Captures Wendy’s voice in digital form, preserving authenticity while clarifying offers.
 - Helps surface THRIVE and private-client pathways early, translating spiritual language into actionable invites.
+
+### If Success (Website Strategist)
+
+- The new site becomes a living container: visitors self-select their journey, feel seen, and convert into THRIVE clients or private sessions.
+- Copy frameworks become reusable modules for campaigns, books, and future micro-sites.
+- Demonstrates that mystic language can be accessible and commercially effective without diluting depth.
+
+### How It Could Fail (Website Strategist)
+
+- If messaging isn’t validated with real audiences, pages may stay aspirational and under-convert.
+- Overlap or conflict with THRIVE marketing timelines could delay shipping critical updates.
+- Without analytics and feedback loops, the site might remain static and blind to emerging needs.
 
 ## Program Marketing & THRIVE Campaign Lead
 
@@ -100,6 +148,18 @@
 - Offers rapid validation cycles that help prioritize which frameworks deserve more automation investment.
 - Amplifies Wendy’s compassion-driven mission in formats that invite immediate participation.
 
+### If Success (Marketing Lead)
+
+- THRIVE and private-client seats fill consistently, funding continued AI investment and team support.
+- Sequenced campaigns demonstrate proof-of-revenue, guiding which frameworks should be scaled next.
+- Builds a repeatable launch playbook applicable to future offers beyond THRIVE.
+
+### How It Could Fail (Marketing Lead)
+
+- If experiments don’t translate into cash metrics, the project might burn resources without proving demand.
+- Misalignment with Wendy’s availability or energy rhythms could create offers that stall mid-launch.
+- Lack of coordination with content or automation teams might produce messaging that can’t be fulfilled operationally.
+
 ## Automation & Tooling Engineer
 
 ### Key Work (Automation Engineer)
@@ -119,3 +179,15 @@
 - Frees high-value contributors from repetitive tasks, letting them focus on creativity and client work.
 - Enables phased automation, matching the project’s rhythm and protecting the team from tool fatigue.
 - Builds the technical foundation Michael can extend later without rewriting the entire pipeline.
+
+### If Success (Automation Engineer)
+
+- Hybrid pipelines run smoothly—manual when needed, automated when volume spikes—keeping the team in flow.
+- Tooling stack remains lightweight yet extensible, supporting future data science or product experiments.
+- Establishes trust that technology can honor the project’s spiritual tone while increasing capacity.
+
+### How It Could Fail (Automation Engineer)
+
+- Introducing complex tools without documentation or training could leave the team dependent on one person.
+- Security/privacy gaps (e.g., handling transcripts) might slow adoption or raise ethical concerns.
+- Over-automation before process stabilization could create brittle systems that break under change.
