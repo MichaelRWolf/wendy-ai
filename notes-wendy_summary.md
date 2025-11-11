@@ -1,12 +1,14 @@
 # ChatGPT–Anonymous Conversation Summary
 
 ## See also
+
 - [notes-wendy.md](notes-wendy.md) – source conversation archive referenced throughout this summary.
 - [notes-wendy_summary.plan.md](notes-wendy_summary.plan.md) – working plan that outlines how to assemble and maintain this summary.
 
 ## Planning Dialog
 
 ### Summary of conversation flow
+
 | Line # | Summary |
 | :--- | :--- |
 | 1–400 | Wendy asks ChatGPT to evaluate Tony Robbins and Dean Graziosi’s “AI Clone” bootcamp, leading both to design a flexible 30-day “Wendy Clone” rhythm that preserves her energy while structuring the knowledge base. |
@@ -19,6 +21,7 @@
 | 7,633–8,109 | They plan automation: weighing manual batches against API pipelines, agreeing on a hybrid approach with Michael’s help, and standardizing reusable templates (including YouTube links and dividers) for BLOOM_AI_Core. |
 
 ### Goals of the project that was discussed
+
 - Build a personalized Wendy Clone system rooted in her frameworks and archives.
 - Centralize source material (e.g., `/BLOOM_AI_Core/`, transcripts, programs) for efficient reuse.
 - Design a gentle 30-day rhythm that accelerates impact without rigid pressure.
@@ -30,6 +33,7 @@
 - Produce packaged session files (full transcript, Wendy extract, dual summary) per episode to serve both voice training and collaborative publication paths.
 
 ### Decisions (i.e. filename conventions, workflow, inputs, work products (outputs))
+
 - Proceed with co-designing a flexible 30-day “AI Clone (Wendy Edition)” structure tailored to Wendy’s rhythms.
 - Maintain BLOOM_AI_Core as one Google Doc using Heading hierarchy and metadata before branching into folders.
 - Adopt explicit folder role definitions (00_Voice_Identity through 70_Video_Audio) to guide future organization when ready.
@@ -37,12 +41,14 @@
 - Store each processed episode as a single session package containing three labeled sub-files to simplify ingestion and reuse.
 
 ### Outstanding Questions
+
 - Should Wendy share the current `/BLOOM_AI_Core/` materials so ChatGPT can review what works?
 - When should the consciousness register style card be formalized within `/00_Voice_Identity/`?
 - How should dual-speaker transcripts like Mystic rEvolution be annotated (speaker tags, timestamps) for best reuse?
 - Are there preferred automation tools (Otter, Whisper, Descript) for batch-processing future Mystic rEvolution episodes?
 
 ### Action Plan
+
 - Outline the flexible 30-day AI Clone rhythm covering gathering, distilling, referencing, and applying Wendy’s materials.
 - Assess existing `/BLOOM_AI_Core/` content to identify gaps and strengths for the knowledge base.
 - Prepare guidance for translating the BLOOM_AI_Core outline into shareable exports when Wendy is ready.
