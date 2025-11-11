@@ -1,5 +1,25 @@
 # Notes for Michael
 
+## Links from Wendy
+
+### Day 1
+
+<https://d2z6yb04.eu1.hubspotlinks.com/Ctc/W3+113/d2Z6yb04/VWtSwB2MWCDmW6-gN_S28xCCyW4Rs6st5FzkVFN8Zqh8l3qn9qW7Y8-PT6lZ3kwW6Cp1wF3cq-91VZmM488tzT_dW2Br0CG6YvWrSW5skGdk8_BJjFW9fR6DY7DkBLfW1dT2MR4VQ2QpN1q0R7cZHRhMW7YZzl86XbkxtW8NLG856YVcZFW2zZjzH8mM27NW2nmzK63D69pnN1MgHF5HW-ZwN1sgYgy43TkZVyJ1f532pcxCW21r39z753SMlW6Nq1xQ5zLNDZW2fmyXc1S5tpYW4wQWXF3QGfnpW2cFTKH5XrsnYW4MqN9S6682DRW5Bf7cS5cGgFMN4Xlzm7FZPKsVTPmzk86q0DlN2TyBfj4Pzr-W7T7pxv6Fs4BgW8HCS162Px5BXf6jnngx04>
+
+### Day 2
+
+This is better link for day 2  - Salesforce guy interview introduced 2:06
+
+<https://aiadvantagesummit.com/aia-replay2?utm_campaign=155727047-Event-2025AIAS&utm_medium=email&_hsmi=121341899&utm_content=121341899&utm_source=hs_email>
+
+### Day 3
+
+Amjad Masad Replit - vibe coding for the masses
+
+<https://aiadvantagesummit.com/aia-replay3?utm_campaign=155727047-Event-2025AIAS&utm_medium=email&_hsmi=121383879&utm_content=121383879&utm_source=hs_email>
+
+## Notes
+
 Your first question was answered...
 
 > You could replicate 90% of this course’s value right here, free, through structured collaboration with me.
@@ -107,10 +127,9 @@ This is a living garden, not a museum.
 
 These keep the tone collaborative while steering everyone back to user and business legs before touching the tech leg.
 
-
 ## Video - Day 3
 
-https://aiadvantagesummit.com/aia-replay3?utm_campaign=155727047-Event-2025AIAS&utm_medium=email&_hsmi=121383879&utm_content=121383879&utm_source=hs_email
+<https://aiadvantagesummit.com/aia-replay3?utm_campaign=155727047-Event-2025AIAS&utm_medium=email&_hsmi=121383879&utm_content=121383879&utm_source=hs_email>
 
 ### Amjad Masad - Replit.  CEO/Founder
 
