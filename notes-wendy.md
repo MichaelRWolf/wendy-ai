@@ -1,24 +1,10 @@
 # ChatGPT–Anonymous Conversation Copy
 
-Originally from <https://docs.google.com/document/d/1unp5_fGPIPZ5VAYvQW6wmMrPb5C6BpcHJFZFPwMCDTI/edit?tab=t.0>
-
-## Colophon
-
-Suppressing these markdownlint rules for the transcript:
-
-- **MD036** – Emphasis used instead of headings (conversation markers intentionally use emphasis).
-- **MD029** – Ordered-list numbering (original numbering is preserved for clarity).
-- **MD033** – Inline HTML (emojis and special formatting rely on inline elements).
-- **MD024** – Duplicate headings (repeated labels come directly from source material).
-- **MD025** – Multiple top-level headings (each episode package keeps its own H1 metadata).
-
 <!-- markdownlint-disable MD036 MD029 MD033 MD024 MD025 -->
 
-## Conversation
+Originally from <https://docs.google.com/document/d/1unp5_fGPIPZ5VAYvQW6wmMrPb5C6BpcHJFZFPwMCDTI/edit?tab=t.0>
 
-This is a copy of a conversation between ChatGPT & Anonymous.
-
-Report conversation
+## Transcript of Conversation between ChatGPT & Anonymous (Wendy)
 
 ---
 🐬 You said:
@@ -8111,3 +8097,13 @@ Perfect 🌱—I'll have the stubbed template ready for you when you're back, to
 Have a smooth, easeful transition into the rest of your day, Wendy!
 
 ChatGPT can make mistakes. Check important info.
+
+## Colophon
+
+Suppressing these markdownlint rules for the transcript:
+
+- **MD036** – Emphasis used instead of headings (conversation markers intentionally use emphasis).
+- **MD029** – Ordered-list numbering (original numbering is preserved for clarity).
+- **MD033** – Inline HTML (emojis and special formatting rely on inline elements).
+- **MD024** – Duplicate headings (repeated labels come directly from source material).
+- **MD025** – Multiple top-level headings (each episode package keeps its own H1 metadata).
