@@ -2,7 +2,6 @@
 
 Companions:
 - [notes-wendy_summary.md](notes-wendy_summary.md) – completed conversation summary generated from this plan.
-- [notes-wendy_summary_critique.md](notes-wendy_summary_critique.md) – candid evaluation of the plan’s business alignment and risks.
 
 ## Scope Confirmation
 - Inspect `notes-wendy.md` to confirm 8 118 lines and identify dialogue/transcript boundaries while respecting ≤400-line chunks.
