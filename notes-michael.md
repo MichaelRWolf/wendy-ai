@@ -106,3 +106,40 @@ This is a living garden, not a museum.
 4. “While we’re testing, what’s the minimum content organization we truly need so the work feels doable without slipping into ‘clone’ busywork?”
 
 These keep the tone collaborative while steering everyone back to user and business legs before touching the tech leg.
+
+
+## Video - Day 3
+
+https://aiadvantagesummit.com/aia-replay3?utm_campaign=155727047-Event-2025AIAS&utm_medium=email&_hsmi=121383879&utm_content=121383879&utm_source=hs_email
+
+### Amjad Masad - Replit.  CEO/Founder
+
+3B company.  Today only.  Filmed in advance.
+
+Wendy suggests starting at 2:07.  It was actually 1:17.
+
+Intro by Dean G...
+
+Replit.  Founder.  CEO.
+
+Coding is hard -> Create with your own.
+
+One problem.  We've got to solve coding.  3-4 months for replit agent.  Sep 24.
+
+Automations.  Asana.  Customizations.  Replace workflow.  State end goal.  Let it do the work.  Add company values.  Talk to it like talking to a person.
+
+Stories - Greenleaf - real estate.  CRM.  Build exactly what you need.  For your company.
+
+Can solve business problems (SaaS).
+
+Open up new opportunities.  Patient life cycle management.  Keep eye on patients.  Manage Rx.  Meds.  Whole ecosystem.  $100K quote.  Built it with Replit.  Alternative - off-shore, not SME's.  Doctor as entrepeneur.
+
+More opportunity in next 3 years than previous 30.
+
+Replit - Safest place for vibe coding.
+
+Overwhelm guard rails - Hackathon.  4-12 hours.  Not just for programmers.  Exec assistants.  Be creative.  Secretary wrote code to manage her work.
+
+Mined internal zoom messages -> 9:00-12:00 -> Drop in a Zoom.  Playbook.  Dump it all into chatbot.  Talk about idea with yourself.  Build a clone.  Copilot.  
+
+Replit - 30 days free.  If you enroll in 30 day boot camp.
