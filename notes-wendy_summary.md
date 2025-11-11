@@ -1,9 +1,8 @@
 # ChatGPT–Anonymous Conversation Summary
 
-See also:
-- [notes-wendy_summary.plan.md](notes-wendy_summary.plan.md) – working plan that outlines how to assemble and maintain this summary.
-- [notes-wendy_summary_critique.md](notes-wendy_summary_critique.md) – candid business critique assessing the plan’s goals, sequencing, and feasibility.
+## See also
 - [notes-wendy.md](notes-wendy.md) – source conversation archive referenced throughout this summary.
+- [notes-wendy_summary.plan.md](notes-wendy_summary.plan.md) – working plan that outlines how to assemble and maintain this summary.
 
 ## Planning Dialog
 
@@ -65,5 +64,3 @@ Wendy R Wolf and Susana Dumett open Season 1 with a grounding meditation that us
 - **Estimated talk durations:** Wendy ≈ 14 minutes; Susana ≈ 16 minutes (based on timestamp clustering)
 - **Final timestamp observed:** 30:24
 - **Source segment:** L1503–L2657; duplicated reference copies at L3174–L4752, L4996–L6132, L6498–L7632
-
-
