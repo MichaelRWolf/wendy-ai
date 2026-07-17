@@ -25,28 +25,56 @@ Per the global CLAUDE.md rules:
 - Structural elements (lists, tables, code blocks) preserve natural line breaks
 - `M-q` in emacs unfills hard-wrapped prose back into single lines
 
-## Document Organization
+## Repository Structure
 
-Files follow a naming pattern that groups related content:
+The repository is organized into two project subdirectories, each with its own CLAUDE.md:
 
-- `notes-<name>.md` — raw notes and observations from a given perspective (Michael, Wendy, etc.)
-- `notes-<base>_summary.md` — curated synthesis and key takeaways
-- `notes-<base>_summary.plan.md` — structured plan derived from summary analysis
-- `notes-<base>_summary_critique.md` — critical review of the synthesis
-- `critiques_from_team_POV.md` — multi-perspective reviews organized by role/function
-- `<topic>_transitions.md` — connective analysis between topics
+### `ai-advantage-summit-2025/`
 
-## Cross-Linking and Structure
+Conference notes and team analysis from the 3-day AI Advantage Summit 2025 that Michael attended with Wendy.
+
+- `notes-michael.md` — Raw conference notes organized by day
+- `critiques_from_team_POV.md` — Multi-perspective team analysis of speaker insights and themes
+
+### `wendy-clone-project/`
+
+Design and planning documentation for the custom-built Wendy Clone / BLOOM_AI_Core AI system, an alternative to the Tony Robbins/Dean Graziosi bootcamp.
+
+- `notes-wendy.md` — Full ChatGPT conversation transcript of system design
+- `notes-wendy_summary.md` — Curated synthesis organized by topic
+- `notes-wendy_summary.plan.md` — Structured implementation plan
+- `notes-wendy_summary_critique.md` — Critical review and feasibility assessment
+- `notes-wendy_transitions.md` — Connective analysis linking themes
+
+### Root Level
+
+- `CLAUDE.md` — Repository-wide guidance
+- `README.md` — High-level project overview
+- `.markdownlint.json` — Markdown linting configuration
+
+## Document Conventions
+
+Within each project subdirectory, follow these patterns:
+
+- `notes-<name>.md` — raw notes or source material (conference observations, conversation transcripts)
+- `notes-<base>_summary.md` — curated synthesis extracted from source
+- `notes-<base>_summary.plan.md` — structured plan derived from analysis
+- `notes-<base>_summary_critique.md` — critical review of feasibility, risks, and assumptions
+- `notes-<base>_transitions.md` — connective analysis bridging topics or documents
+
+### Cross-Linking
 
 Documents use cross-references (see git history: `d891d5e`, `ce3ac0b`) to map relationships:
 
 - Link between summary and raw notes so readers can drill down from synthesis
 - Group related critiques by role or perspective
-- Use headings and subheadings to organize perspectives (Critical Review, Supportive Review, Success Vision, Failure Risks)
+- Use "See also" sections to surface related documents in other subdirectories
 
-When adding new analysis:
+### Editing Guidelines
 
-1. Keep raw notes and synthesis separate
+When adding or updating analysis:
+
+1. Keep raw notes and synthesis in separate files
 2. Add "See also" or link sections to surface related documents
 3. Organize complex critiques by perspective (Critical, Supportive, Vision, Risk)
 4. Run markdownlint before committing
