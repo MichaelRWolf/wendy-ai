@@ -24,7 +24,7 @@ The starting principle: separate "getting it running" from "building the ideal t
 3. Open Ads Manager
 4. Choose Traffic objective
 5. Paste in the Mailchimp URL
-6. Spend $5–10/day for a few days
+6. Spend $5-10/day for a few days
 7. See what happens
 
 ### Phase 2: Conversion Optimization (If Phase 1 Shows Promise)
@@ -51,7 +51,7 @@ Use a registration page specific to each gathering containing:
 
 Ideally send registrants to a distinct thank-you page:
 
-```
+```text
 wendyrwolf.com/soul-gym-thank-you
 ```
 
@@ -67,8 +67,8 @@ Select: **Traffic**
 
 Name the campaign something recognizable:
 
-```
-Soul GYM – Amusement – July 2026 – Traffic Test
+```text
+Soul GYM - Amusement - July 2026 - Traffic Test
 ```
 
 Leave these off initially unless Meta requires them:
@@ -85,13 +85,13 @@ Leave these off initially unless Meta requires them:
 
 ### Part 5: Set a Real Test Budget
 
-For a modest first test: $5–$10 per day for 4–7 days. This gives Meta room to distribute and you enough activity to observe.
+For a modest first test: $5-$10 per day for 4-7 days. This gives Meta room to distribute and you enough activity to observe.
 
 ### Part 6: Build the Audience
 
 **Location:** United States and Canada (or adjust for your market)
 
-**Age:** Genuine range likely to participate (e.g., 35–70+)
+**Age:** Genuine range likely to participate (e.g., 35-70+)
 
 **Gender:** All (unless specifically designed for a particular population)
 
@@ -129,13 +129,13 @@ This shows across Facebook and Instagram. Later, inspect whether registrations c
 
 Even before installing Meta Pixel, add tracking parameters:
 
-```
+```text
 https://your-registration-page.com/?utm_source=facebook&utm_medium=paid_social&utm_campaign=soul_gym_amusement_july_2026
 ```
 
 Or use Meta's URL parameters box:
 
-```
+```text
 utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign=soul_gym_amusement_july_2026&utm_content={{ad.name}}
 ```
 
@@ -188,20 +188,20 @@ This gives:
 
 Track only these numbers initially:
 
-| Stage | Number |
-| :--- | :--- |
-| Ad reach | |
-| Landing-page views | |
-| Registrations | |
-| Attendees | |
-| First-time attendees | |
-| People who return | |
+| Stage                | Number |
+|:---------------------|:-------|
+| Ad reach             |        |
+| Landing-page views   |        |
+| Registrations        |        |
+| Attendees            |        |
+| First-time attendees |        |
+| People who return    |        |
 
 This reveals whether the largest problem is the advertisement, the registration page, the reminder process, the timing, or the leap between registering and attending.
 
 ## Core Principle: Message Before Mechanics
 
-The bigger issue isn't technology—it's finding the message that reliably makes the right people say "Yes."
+The bigger issue isn't technology--it's finding the message that reliably makes the right people say "Yes."
 
 Technology amplifies. It rarely rescues.
 
