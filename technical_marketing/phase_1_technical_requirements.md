@@ -166,6 +166,8 @@
 
 ## Data Analysis: What Each Metric Tells You
 
+**[See visual flowchart: phase_1_diagnostic_flowchart.md](phase_1_diagnostic_flowchart.md)**
+
 ### If Few People Click the Ad
 
 → Problem is the **ad itself** (image, headline, or targeting is off)
