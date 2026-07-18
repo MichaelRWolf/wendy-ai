@@ -29,26 +29,35 @@ graph TD
     K["Few registrations<br/>+ Few attendees<br/>at same stage"] --> L["❌ Problem: Message itself<br/>people don't want this"]
     L --> L1["✏️ Fix: Different invitation,<br/>different offer, different targeting,<br/>or different product"]
     
-    style C fill:#ffcccc
-    style E fill:#ffcccc
-    style G fill:#ffcccc
-    style I fill:#ffcccc
-    style L fill:#ffcccc
-    style J fill:#ccffcc
-    style C1 fill:#ffe6e6
-    style E1 fill:#ffe6e6
-    style G1 fill:#ffe6e6
-    style I1 fill:#ffe6e6
-    style L1 fill:#ffe6e6
+    style A fill:#333,stroke:#ffff00,color:#ffff00,stroke-width:2px
+    style B fill:#333,stroke:#ffff00,color:#ffff00,stroke-width:2px
+    style D fill:#333,stroke:#ffff00,color:#ffff00,stroke-width:2px
+    style F fill:#333,stroke:#ffff00,color:#ffff00,stroke-width:2px
+    style H fill:#333,stroke:#ffff00,color:#ffff00,stroke-width:2px
+    
+    style C fill:#ff3333,stroke:#000,color:#000,stroke-width:2px
+    style E fill:#ff3333,stroke:#000,color:#000,stroke-width:2px
+    style G fill:#ff3333,stroke:#000,color:#000,stroke-width:2px
+    style I fill:#ff3333,stroke:#000,color:#000,stroke-width:2px
+    style L fill:#ff3333,stroke:#000,color:#000,stroke-width:2px
+    
+    style C1 fill:#ff9900,stroke:#000,color:#000,stroke-width:2px
+    style E1 fill:#ff9900,stroke:#000,color:#000,stroke-width:2px
+    style G1 fill:#ff9900,stroke:#000,color:#000,stroke-width:2px
+    style I1 fill:#ff9900,stroke:#000,color:#000,stroke-width:2px
+    style L1 fill:#ff9900,stroke:#000,color:#000,stroke-width:2px
+    
+    style J fill:#00cc00,stroke:#000,color:#000,stroke-width:3px
 ```
 
 ---
 
 ## Reading the Flowchart
 
-**Red boxes** = Problem diagnosis
-**Light red boxes** = Fix/action to take
-**Green box** = Success (message works, move to Phase 2)
+**Yellow boxes with dark background** = Decision points (questions to ask)
+**Bright red boxes** = Problem diagnosis
+**Orange boxes** = Fix/action to take
+**Bright green box** = Success (message works, move to Phase 2)
 
 **The path depends on your data:**
 
